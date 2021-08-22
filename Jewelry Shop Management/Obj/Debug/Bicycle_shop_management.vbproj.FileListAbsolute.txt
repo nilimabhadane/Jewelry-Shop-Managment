@@ -1,0 +1,22 @@
+c:\users\hiralal\documents\visual studio 2013\Projects\Bicycle_shop_management\Bicycle_shop_management\bin\Debug\Bicycle_shop_management.exe.config
+c:\users\hiralal\documents\visual studio 2013\Projects\Bicycle_shop_management\Bicycle_shop_management\obj\Debug\Bicycle_shop_management.AboutBox1.resources
+c:\users\hiralal\documents\visual studio 2013\Projects\Bicycle_shop_management\Bicycle_shop_management\obj\Debug\Bicycle_shop_management.LoginForm1.resources
+c:\users\hiralal\documents\visual studio 2013\Projects\Bicycle_shop_management\Bicycle_shop_management\obj\Debug\Bicycle_shop_management.MDIParent1.resources
+c:\users\hiralal\documents\visual studio 2013\Projects\Bicycle_shop_management\Bicycle_shop_management\obj\Debug\Bicycle_shop_management.Resources.resources
+c:\users\hiralal\documents\visual studio 2013\Projects\Bicycle_shop_management\Bicycle_shop_management\obj\Debug\Bicycle_shop_management.SplashScreen1.resources
+c:\users\hiralal\documents\visual studio 2013\Projects\Bicycle_shop_management\Bicycle_shop_management\obj\Debug\Bicycle_shop_management.vbproj.GenerateResource.Cache
+c:\users\hiralal\documents\visual studio 2013\Projects\Bicycle_shop_management\Bicycle_shop_management\bin\Debug\Bicycle_shop_management.exe
+c:\users\hiralal\documents\visual studio 2013\Projects\Bicycle_shop_management\Bicycle_shop_management\bin\Debug\Bicycle_shop_management.pdb
+c:\users\hiralal\documents\visual studio 2013\Projects\Bicycle_shop_management\Bicycle_shop_management\bin\Debug\Bicycle_shop_management.xml
+c:\users\hiralal\documents\visual studio 2013\Projects\Bicycle_shop_management\Bicycle_shop_management\obj\Debug\Bicycle_shop_management.exe
+c:\users\hiralal\documents\visual studio 2013\Projects\Bicycle_shop_management\Bicycle_shop_management\obj\Debug\Bicycle_shop_management.xml
+c:\users\hiralal\documents\visual studio 2013\Projects\Bicycle_shop_management\Bicycle_shop_management\obj\Debug\Bicycle_shop_management.pdb
+c:\users\hiralal\documents\visual studio 2013\Projects\Bicycle_shop_management\Bicycle_shop_management\obj\Debug\Bicycle_shop_management.Supplier.resources
+c:\users\hiralal\documents\visual studio 2013\Projects\Bicycle_shop_management\Bicycle_shop_management\obj\Debug\Bicycle_shop_management.EditSupplier.resources
+c:\users\hiralal\documents\visual studio 2013\Projects\Bicycle_shop_management\Bicycle_shop_management\obj\Debug\Bicycle_shop_management.PurchaseForm.resources
+c:\users\hiralal\documents\visual studio 2013\Projects\Bicycle_shop_management\Bicycle_shop_management\obj\Debug\Bicycle_shop_management.saleForm.resources
+H:\Work\Bicycle_shop_management\Bicycle_shop_management\bin\Debug\Bicycle_shop_management.exe.config
+H:\Work\Bicycle_shop_management\Bicycle_shop_management\obj\Debug\Bicycle_shop_management.exe
+H:\Work\Bicycle_shop_management\Bicycle_shop_management\obj\Debug\Bicycle_shop_management.xml
+H:\Work\Bicycle_shop_management\Bicycle_shop_management\obj\Debug\Bicycle_shop_management.pdb
+H:\Work\Bicycle_shop_management\Bicycle_shop_management\bin\Debug\jewellery_shop_management.exe.config
